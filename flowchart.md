@@ -13,44 +13,37 @@ The first design of flowchart goes back to 1945 which was designed by John Von N
 **Flowchart**  is  diagrammatic  /Graphical  representation  of  sequence  of  steps  to  solve  a problem. To draw a flowchart following standard symbols are use 
 
 
-
-|Symbol Name |Symbol |function |||||
-| - | - | - | :- | :- | :- | :- |
-|Oval |![](Aspose.Words.265259e3-47a7-436a-ac6b-6f60681cfc21.001.png)|Used to represent start and end of flowchart |||||
-|Parallelogram |![](Aspose.Words.265259e3-47a7-436a-ac6b-6f60681cfc21.002.png)|Used for input and output operation |||||
-|Rectangle |![](Aspose.Words.265259e3-47a7-436a-ac6b-6f60681cfc21.003.png)|Processing: Used for arithmetic operations and data-manipulations |||||
-|Diamond |![](Aspose.Words.265259e3-47a7-436a-ac6b-6f60681cfc21.004.png)|Decision making. Used to represent the operation in which there are two/three  alternatives, true and false etc |||||
-|Arrows |<p>![](Aspose.Words.265259e3-47a7-436a-ac6b-6f60681cfc21.005.png)</p><p>` `![](Aspose.Words.265259e3-47a7-436a-ac6b-6f60681cfc21.006.png) ![](Aspose.Words.265259e3-47a7-436a-ac6b-6f60681cfc21.007.png)![](Aspose.Words.265259e3-47a7-436a-ac6b-6f60681cfc21.008.png)</p>|Flow line Used to indicate the flow of logic by connecting symbols |||||
-|Circle |![](Aspose.Words.265259e3-47a7-436a-ac6b-6f60681cfc21.009.png)|Page Connector |||||
-|||||Off Page Connector |||
-||![](Aspose.Words.265259e3-47a7-436a-ac6b-6f60681cfc21.010.png)|Predefined Process /Function Used to represent a group of statements performing one processing task. |||||
-||![](Aspose.Words.265259e3-47a7-436a-ac6b-6f60681cfc21.011.png)|Preprocessor |||||
-||<p>|-------------- </p><p>`  `--------- | </p><p>|-------------- </p>|Comments |||||
+![image](https://github.com/user-attachments/assets/e15c7b4d-39bc-4bd5-816c-df84678b21d0)
 
 **Flowchart to** **find the sum of two numbers** 
 
-![](Aspose.Words.265259e3-47a7-436a-ac6b-6f60681cfc21.012.png)
+![image](https://github.com/user-attachments/assets/fb5dbec8-775e-49dc-a364-4d3a498c4d55)
 
 **Flowchart to** **convert temperature from Celsius to Fahrenheit** 
 
-![](Aspose.Words.265259e3-47a7-436a-ac6b-6f60681cfc21.013.png)
+![image](https://github.com/user-attachments/assets/0ee5dd18-198e-4756-8d7f-a411947d7caa)
+
 
 **Flowchart to** **convert temperature from  Fahrenheit  to Celsius** 
 
-![](Aspose.Words.265259e3-47a7-436a-ac6b-6f60681cfc21.014.png)
+![image](https://github.com/user-attachments/assets/dfac4e8b-fe24-4241-965a-004fd8e6c00e)
+
 
 **Flowchart to** **find Area and Perimeter of Square** 
 
-![](Aspose.Words.265259e3-47a7-436a-ac6b-6f60681cfc21.015.png)
+![image](https://github.com/user-attachments/assets/91d50276-e543-495c-907e-7b954d69e415)
+
 
 **Flowchart to** **find the smallest of two numbers** 
 
-![](Aspose.Words.265259e3-47a7-436a-ac6b-6f60681cfc21.016.png)
+![image](https://github.com/user-attachments/assets/d8faa656-c91d-47bb-943b-e838cdbe6fe2)
 
 **Flowchart to** **find Even number between 1 to 50** 
 
-![](Aspose.Words.265259e3-47a7-436a-ac6b-6f60681cfc21.017.png)
+![image](https://github.com/user-attachments/assets/bebfaa16-f7d8-49d3-b478-13eec57f73b8)
+
 
 **Flowchart to** **find  Odd numbers between 1 to n where n is a positive Integer** 
 
-![](Aspose.Words.265259e3-47a7-436a-ac6b-6f60681cfc21.018.png)
+![image](https://github.com/user-attachments/assets/65ee5aed-d5a8-4bef-9fc2-f5d9dccb5b5a)
+
